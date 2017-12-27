@@ -1,0 +1,99 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+\\Qu2q9xpxbvrgg4l\SharedDocs\keil\SimuKeyb\SimuKeyb.uvproj
+Project File Date:  07/29/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=969
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=950
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=971
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=943
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=943
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=977
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=977
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=977
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?_COMSENDSTRING?MAIN
+    CALLER1: ?PR?TIMER0?MAIN
+    CALLER2: ?C_C51STARTUP
+Program Size: data=117.1 xdata=0 code=961
+creating hex file from "SimuKeyb"...
+"SimuKeyb" - 0 Error(s), 1 Warning(s).

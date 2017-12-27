@@ -1,0 +1,1 @@
+THE MCU USES 11.0592MHz Crystal

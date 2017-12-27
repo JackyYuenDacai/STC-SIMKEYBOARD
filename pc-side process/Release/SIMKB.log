@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/7/31 20:23:48。
+     1>项目“C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\SIMKB\SIMKB.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ServiceMain.cpp
+         ServiceMain.cpp
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(149): warning C4244: “=”: 从“unsigned long”转换到“WORD”，可能丢失数据
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(153): warning C4244: “=”: 从“unsigned long”转换到“WORD”，可能丢失数据
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(161): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(176): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(179): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>c:\users\administrator\documents\visual studio 2012\projects\simkb\simkb\SimuKeyb.h(181): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(237) : 参见“fscanf”的声明
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /l"0x0409" /nologo /fo"Release\Resource.res" Resource.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\Release\SIMKB.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\Release\SIMKB.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\Release\SIMKB.lib" /MACHINE:X86 /SAFESEH Release\Resource.res
+         Release\ServiceMain.obj
+         正在生成代码
+         已完成代码的生成
+         SIMKB.vcxproj -> C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\Release\SIMKB.exe
+     1>已完成生成项目“C:\Users\Administrator\documents\visual studio 2012\Projects\SIMKB\SIMKB\SIMKB.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.27
